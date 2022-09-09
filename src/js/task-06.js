@@ -14,3 +14,4 @@ function onInputBlur(event) {
     event.currentTarget.classList.add('invalid');
   }
 }
+console.log(inputRef);
